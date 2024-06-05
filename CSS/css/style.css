@@ -1,0 +1,49 @@
+/*  */
+body {
+    padding-bottom: 500px;
+}
+h3 {
+    color : green;
+}
+
+p {
+    color: blue;
+}
+
+.paragraph {
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
+
+#exclusive{
+    background-color: purple;
+    color: yellow;
+    font-size: 40px;
+}
+
+/* ordem das regras */
+
+h2 {
+    border-bottom: 2px solid red;
+}
+
+.titulo {
+    border-bottom: 3px solid blue;
+}
+
+#algum-titulo{
+    border-bottom: 4px solid green;
+}
+
+.color-name{
+    color: darkgreen
+}
+
+.hsl{
+    color: hsl(100, 20%, 50%);
+}
+
+.hsl-2{
+    color: hsl(365, 25%, 40%);
+}
