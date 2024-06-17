@@ -1,0 +1,13 @@
+#all-box-model {
+    width: 400px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid green;
+    margin: 20px;
+    outline: 2px solid red;
+}
+
+.color {
+    color: green;
+}
